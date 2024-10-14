@@ -1,0 +1,5 @@
+﻿  Stack.c
+C:\Users\82109\source\repos\C_Study\Stack\MyArrayStackFunction.h(18,12): warning C4098: 'AS_Push': 'void' function returning a value
+C:\Users\82109\source\repos\C_Study\Stack\MyArrayStackFunction.h(28,3): warning C4033: 'AS_Pop' must return a value
+C:\Users\82109\source\repos\C_Study\Stack\MyArrayStackFunction.h(32): warning C4715: 'AS_Pop': not all control paths return a value
+  Stack.vcxproj -> C:\Users\82109\source\repos\C_Study\Debug\Stack.exe

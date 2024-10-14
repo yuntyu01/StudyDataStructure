@@ -1,0 +1,3 @@
+﻿  MergeSort.c
+C:\Users\82109\source\repos\C_Study\MergeSort\MergeSort.c(4,5): error C2084: function 'int main()' already has a body
+C:\Users\82109\source\repos\C_Study\MergeSort\MergeSort.h(54): message : see previous definition of 'main'
